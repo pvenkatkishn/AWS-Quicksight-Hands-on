@@ -1,4 +1,4 @@
-QuickSight Hands-on Summary: 
+<h1>QuickSight Hands-on Summary:</h1>
 
 1. I worked primarily with the Saas-Sales(.csv) file to create multiple dashboards on Quicksight, a few of which have been attached here.
 I experimented using different themes, field formats, visual formatting, performed calculations and also added an interactivity feature to my dashboard.
